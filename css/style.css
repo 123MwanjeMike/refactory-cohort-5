@@ -1,0 +1,22 @@
+body{
+  background-color: rgba(11, 81, 109, 0.5);
+}
+* {
+    color: yellow;
+}
+h1{
+   color:red; 
+}
+p{
+    color:blue;
+    font-style: italic;
+}
+#second {
+    color: green;
+}
+.orange{
+    color: orange;
+}
+.magenta{
+    color: magenta;
+}
